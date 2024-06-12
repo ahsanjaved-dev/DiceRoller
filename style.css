@@ -1,0 +1,33 @@
+#container{
+    margin-top: 50px;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    font-weight: bold;
+}
+input{
+    font-size: 20px;
+    font-weight: bold;
+    text-align: center;
+
+}
+button{
+    font-size: 20px;
+    font-weight: bold;
+    padding: 5px 8px;
+    margin-left: 5px;
+    border: none;
+    border-radius: 5px;
+    background-color: hsl(208, 85%, 75%);
+    cursor: pointer;
+}
+button:hover{
+    background-color: hsl(208, 85%, 60%);
+}
+#Diceresult{
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+#Diceimages img{
+    width: 120px;
+}
